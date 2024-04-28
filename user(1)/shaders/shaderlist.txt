@@ -1,0 +1,2 @@
+<2>Referenceimage@ReferenceImageVS()(%_RT_NO_TESSELLATION)(0)(0)(0)(0)(VS)
+<2>Referenceimage@ReferenceImagePS()(%_RT_NO_TESSELLATION)(0)(0)(0)(0)(PS)
