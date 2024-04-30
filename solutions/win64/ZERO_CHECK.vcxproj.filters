@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\panch\Documents\CRYENGINE Projects\Sidescroller\solutions\win64\CMakeFiles\3de777ecdc2e23d671e240cb37b96251\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F20FBD0D-2ED3-35FA-BA86-31C8589304BA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
